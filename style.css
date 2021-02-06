@@ -1,0 +1,36 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+h1 {text-align : center ; color : blue;background-color:lightgreen;lightgreen; animation-name:example;animation-duration:5s }
+
+h2{text-align : left ; color : yellow}
+
+h3{text-align: left ; color : yellow}
+
+ol{color : brown ;}
+
+ul{color : brown ;}
+
+p {text-align : center ; color : red ; font-size:20px; animation-name:heading;animation-duration:5s}
+
+body {background-color :lightgreen; animation-name:example;animation-duration:5s}
+
+@keyframes example{
+  from{background-color: lightgreen;}
+  to{background-color : cyan}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
