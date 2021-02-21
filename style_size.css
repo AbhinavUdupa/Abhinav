@@ -1,0 +1,10 @@
+head{color: blue;}
+body{background-color :lime;}
+
+
+
+.home a{
+    position: absolute;
+    right: 100px;
+    top: 50px;
+}

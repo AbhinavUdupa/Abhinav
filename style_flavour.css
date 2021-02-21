@@ -1,0 +1,7 @@
+body{background-color:lightcoral;}
+ol{font-size: x-large;color: brown;}
+
+.home a{
+    position: absolute;
+    left: 200px;
+}
